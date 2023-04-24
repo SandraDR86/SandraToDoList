@@ -130,7 +130,7 @@ button[type="submit"] {
   transition: background-color 300ms ease;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 600px) {
   button[type="submit"] {
     display: block;
     padding: 1rem 5rem;
